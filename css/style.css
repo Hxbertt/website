@@ -292,11 +292,11 @@ ol li{
     left: -50px;
     top: 5px;
 }
-.tokenomics-left{
+.DönerCoin-left{
     padding-top: 150px;
     padding-left: 100px;
 }
-.tokenomics-left img{
+.DönerCoin-left img{
     width: 40vw;
     display: block;
     position: relative;
@@ -309,13 +309,13 @@ ol li{
     width: 35vw;
     z-index: 2;
 }
-.tokenomics-right{
+.DönerCoin-right{
     position: absolute;
     right: 0;
     bottom: -100px;
     width: 45vw;
 }
-#tokenomics::after{
+#DönerCoin::after{
     content: '';
     position: absolute;
     width: 100vw;
@@ -599,23 +599,23 @@ footer{
     .htb-block{
         margin-bottom: 30px;
     }
-    #tokenomics .marquee{
+    #DönerCoin .marquee{
         top: 0;
     }
     .htb-left img{
         bottom: -10px;
     }
-    .tokenomics-left{
+    .DönerCoin-left{
         padding: 20px;
         padding-top: 50px;
     }
-    .tokenomics-left img{
+    .DönerCoin-left img{
         width: 90vw;
     }
-    #tokenomics{
+    #DönerCoin{
         height: auto;
     }
-    .tokenomics-right{
+    .DönerCoin-right{
         position: relative;
         width: 90vw;
         bottom: 0;
@@ -725,10 +725,10 @@ footer{
     .htb-left img{
         width: 30vw;
     }
-    .tokenomics-right{
+    .DönerCoin-right{
         width: 35vw;
     }
-    .tokenomics-left img{
+    .DönerCoin-left img{
         width: 30vw;
     }
     .htb-block p{
