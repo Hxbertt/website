@@ -311,7 +311,7 @@ ol li{
 }
 .DönerCoin-right{
     position: absolute;
-    right: 200px;
+    right: 0;
     bottom: -100px;
     width: 45vw;
 }
