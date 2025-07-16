@@ -311,8 +311,8 @@ ol li{
 }
 .DönerCoin-right{
     position: absolute;
-    right: 0;
-    bottom: -100px;
+    right: 20px;
+    bottom: -200px;
     width: 45vw;
 }
 #DönerCoin::after{
